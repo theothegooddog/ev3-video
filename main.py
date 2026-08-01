@@ -114,7 +114,7 @@ ev3 = EV3Brick()
 def d():
     for frame in range(1, {total_frames + 1}, {speed}):
 """
-        + r"        ev3.screen.load_image(f'frames/frame_{frame}.png')"
+        + "        ev3.screen.load_image("frames/frame_" + str(frame) + ".png")"
         + """
 snt(d, ())
 ev3.speaker.play_file('audio.wav')
