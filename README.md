@@ -2,7 +2,7 @@
 Converts a video into an EV3 repository for displaying videos on the screen.
 
 ![badge](https://img.shields.io/badge/requirements-none-green) 
-![badge](https://img.shields.io/badge/version-python_1+-blue)
+![badge](https://img.shields.io/badge/version-pybricks_micropython_1.11+-yellow)
 
 ---
 
